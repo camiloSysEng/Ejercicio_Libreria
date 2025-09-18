@@ -2,7 +2,7 @@
 
 
 ## 📚 Contenido
-- **Código Python**: [Ejercicio_Ejemplol.py](codigo/Ejercicio_Ejemplo.py)
+- **Código Python**: [Ejercicio_Ejemplo.py](codigo/Ejercicio_Ejemplo.py)
 
 ## 🎯 Descripción
 Proyecto educativo sobre Scikit-learn que incluye:
